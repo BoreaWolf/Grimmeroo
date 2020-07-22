@@ -1,0 +1,6 @@
+# Personal ignores
+
+# Temporary files
+**/*.swp
+**/*.html
+**/*.old
